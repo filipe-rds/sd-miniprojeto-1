@@ -1,0 +1,52 @@
+2025-06-10T11:20:24.514896031-03:00 Append minha_lista_1 10
+2025-06-10T11:20:24.51530529-03:00 Append minha_lista_1 20
+2025-06-10T11:20:24.51543082-03:00 Append outra_lista 5
+2025-06-10T11:20:24.515572579-03:00 Get/Size minha_lista_1 0
+2025-06-10T11:20:24.515702569-03:00 Get/Size outra_lista 0
+2025-06-10T11:20:24.515835769-03:00 Get/Size minha_lista_1 0
+2025-06-10T11:20:24.515947548-03:00 Get/Size minha_lista_1 1
+2025-06-10T11:20:24.516062978-03:00 Remove minha_lista_1
+2025-06-10T11:20:24.516173868-03:00 Get/Size minha_lista_1 0
+2025-06-10T11:20:24.516277937-03:00 Get/Size nao_existe 0
+2025-06-10T11:20:24.516423427-03:00 Append lista_concorrente_simples 0
+2025-06-10T11:20:24.516962055-03:00 Append lista_concorrente_simples 0
+2025-06-10T11:20:24.517200665-03:00 Get/Size lista_concorrente_simples 0
+2025-06-10T11:20:24.517362344-03:00 Append lista_concorrente_simples 1000
+2025-06-10T11:20:24.517445684-03:00 Get/Size lista_concorrente_simples 0
+2025-06-10T11:20:24.517482304-03:00 Get/Size lista_concorrente_simples 0
+2025-06-10T11:20:24.517644473-03:00 Get/Size lista_concorrente_simples 1
+2025-06-10T11:20:24.517744213-03:00 Get/Size lista_concorrente_simples 0
+2025-06-10T11:20:24.517859593-03:00 Get/Size lista_concorrente_simples 1
+2025-06-10T11:20:24.51901298-03:00 Get/Size lista_concorrente_simples 0
+2025-06-10T11:20:24.519142019-03:00 Get/Size lista_concorrente_simples 2
+2025-06-10T11:20:24.520324336-03:00 Append lista_concorrente_simples 1001
+2025-06-10T11:20:24.520434026-03:00 Get/Size lista_concorrente_simples 0
+2025-06-10T11:20:24.520599015-03:00 Get/Size lista_concorrente_simples 0
+2025-06-10T11:20:24.520704895-03:00 Get/Size lista_concorrente_simples 0
+2025-06-10T11:20:24.520817765-03:00 Get/Size lista_concorrente_simples 0
+2025-06-10T11:20:24.522018521-03:00 Append lista_concorrente_simples 2003
+2025-06-10T11:20:24.522154761-03:00 Append lista_concorrente_simples 2004
+2025-06-10T11:20:24.523334528-03:00 Remove lista_concorrente_simples
+2025-06-10T11:20:24.524517284-03:00 Get/Size lista_concorrente_simples 0
+2025-06-10T11:20:24.524641084-03:00 Get/Size lista_concorrente_simples 1
+2025-06-10T11:20:24.525825071-03:00 Remove lista_concorrente_simples
+2025-06-10T11:20:24.525822261-03:00 Append lista_concorrente_simples 1003
+2025-06-10T11:20:24.526993247-03:00 Append lista_concorrente_simples 5
+2025-06-10T11:20:24.526999637-03:00 Append lista_concorrente_simples 2006
+2025-06-10T11:20:24.529244711-03:00 Get/Size lista_concorrente_simples 0
+2025-06-10T11:20:24.529244681-03:00 Append lista_concorrente_simples 2007
+2025-06-10T11:20:24.529262331-03:00 Append lista_concorrente_simples 1004
+2025-06-10T11:20:24.529351131-03:00 Get/Size lista_concorrente_simples 2
+2025-06-10T11:20:24.531555015-03:00 Remove lista_concorrente_simples
+2025-06-10T11:20:24.533781788-03:00 Append lista_concorrente_simples 1005
+2025-06-10T11:20:24.533784498-03:00 Remove lista_concorrente_simples
+2025-06-10T11:20:24.536021342-03:00 Append lista_concorrente_simples 2009
+2025-06-10T11:20:24.538266176-03:00 Append lista_concorrente_simples 1006
+2025-06-10T11:20:24.538277266-03:00 Get/Size lista_concorrente_simples 0
+2025-06-10T11:20:24.538363915-03:00 Get/Size lista_concorrente_simples 6
+2025-06-10T11:20:24.540605929-03:00 Remove lista_concorrente_simples
+2025-06-10T11:20:24.542872463-03:00 Remove lista_concorrente_simples
+2025-06-10T11:20:24.543030842-03:00 Append lista_concorrente_simples 1008
+2025-06-10T11:20:24.546357603-03:00 Remove lista_concorrente_simples
+2025-06-10T11:20:24.548660927-03:00 Get/Size lista_concorrente_simples 0
+2025-06-10T11:20:24.548809226-03:00 Get/Size lista_concorrente_simples 0

@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  remote-list-server:
+    build: .
+    image: remote-list-server:latest
+    ports:
+      - "1234:1234"
+    volumes:
+      - ./logs:/app/logs
+      - ./snapshots:/app/snapshots
